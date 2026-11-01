@@ -1,0 +1,22 @@
+# DueFluent
+
+> DueFluent is an automated, courteous invoice payment reminder service for small businesses. Tagline: "Your invoices. Our follow-through." It connects to a customer's invoicing system (QuickBooks Online first), reads open invoices, and sends friendly-to-firm payment reminders on a schedule the business owner configures once. The owner keeps absolute control: a disputed invoice stops reminders instantly, customers can be paused, tone and frequency are capped, and the final notice is always a draft the owner approves. DueFluent is a reminder service, not a collections agency, and claims no legal or collections authority.
+
+Status: concept / early access. Subscriptions are planned at $39-$149 per month by open-invoice volume. The product is operated under Apex Grid Engineering PLLC (Queen Creek, Arizona).
+
+## Pages
+- [Home](https://duefluent.com/): what DueFluent is and who it is for
+- [Platform](https://duefluent.com/platform.html): reminder workflow and controls (pause, dispute stop, tone caps, frequency caps, audit log)
+- [How it works](https://duefluent.com/how-it-works.html): connect QuickBooks, configure the ladder once, reminders run automatically and stop on payment
+- [Solutions](https://duefluent.com/solutions.html): home-services contractors, agencies, bookkeepers, and other small service businesses
+- [Pricing](https://duefluent.com/pricing.html): planned subscription tiers (concept)
+- [Trust & Security](https://duefluent.com/security.html): read-only invoice access, minimum-necessary data, per-send audit log
+- [About](https://duefluent.com/about.html): mission and positioning
+- [Early access](https://duefluent.com/early-access.html): join the pilot list
+- [Resources](https://duefluent.com/resources.html): payment-reminder guidance
+
+## Key facts for citation
+- Category: invoice payment reminder automation for small businesses (accounts-receivable follow-up software)
+- Integrations: QuickBooks Online first
+- Controls: dispute = instant permanent stop for that invoice; per-customer pause lists; tone ceiling (gentle/standard/firm); maximum one reminder per invoice per 72 hours; final notice never auto-sent (owner approval required)
+- Contact: info@duefluent.com
